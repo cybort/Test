@@ -1,0 +1,527 @@
+
+simulation
+
+牛津词典
+
+noun
+1
+
+[C, U] 模拟；仿真
+a situation in which a particular set of conditions is created artificially in order to study or experience sth that could exist in reality
+
+a computer simulation of how the planet functions
+
+行星活动方式的计算机模拟
+
+a simulation model
+
+仿真模型
+2
+
+[U] 假装；冒充
+the act of pretending that sth is real when it is not
+
+the simulation of genuine concern
+
+假装真诚关心
+柯林斯词典
+
+    1
+    N-VAR 模仿;模拟;仿真品
+    Simulation is the process of simulating something or the result of simulating it.
+
+    Training includes realistic simulation of casualty procedures.
+
+    培训包括对急救过程的真实模拟。
+
+英英释义
+
+noun
+
+1
+the act of giving a false appearance
+    his conformity was only pretending
+    Synonym:
+    pretense pretence pretending feigning
+
+2
+the act of imitating the behavior of some situation or some process by means of something suitably analogous (especially for the purpose of study or personnel training)
+
+3
+representation of something (sometimes on a smaller scale)
+    Synonym:
+    model
+
+4
+(computer science) the technique of representing the real world by a computer program
+    a simulation should imitate the internal processes and not merely the results of the thing being simulated
+    Synonym:
+    computer simulation
+
+数据来源：WordNet
+双语例句
+全部 模仿 模拟 假装
+
+    1
+
+    Training includes realistic simulation of casualty procedures.
+
+    培训包括对急救过程的真实模拟。
+
+    《柯林斯高阶英汉双解学习词典》
+
+    以下例句来源于网络，仅供参考
+    2
+
+    The simulation results show the validity and accuracy of the model.
+
+    仿真结果表明了所建模型的有效性和精度。
+
+    danci.911cha.com
+    3
+
+    The application of the proposed approach in a simulation and engineering system indicates its effectiveness and practicability.
+
+    仿真和实际系统的应用表明了此算法的有效性和实用性。
+
+    www.ceps.com.tw
+    4
+
+    Provide a simulation tool for process analysis and testing.
+
+    提供一个用于流程分析和测试的模拟工具。
+
+    www.ibm.com
+    5
+
+    Finally, a hardware platform and software simulation system of DBF network are designed.
+
+    研制了DBF网络硬件平台和半实物仿真系统，验证了算法设计的正确性。
+
+    hkxb.buaa.edu.cn
+    6
+
+    Users can generate reports from the process model and the simulation results.
+
+    用户可以在流程模型和模拟结果基础上生成报告。
+
+    www.ibm.com
+    7
+
+    The method of computer-aided alignment of unstable resonator is presented and its numerical simulation results are given.
+
+    针对这一问题，对非稳腔的计算机辅助装调方法进行了研究，并对该过程进行了数值模拟。
+
+    www.dictall.com
+    8
+
+    Characteristics of wave propagation in grouted rockbolt were investigated with numerical simulation, experimental measurement and theoretical analysis.
+
+    用理论分析、数值模拟和实验测试的方法研究了自由锚杆和锚固锚杆中的波传播特性。
+
+    danci.911cha.com
+    9
+
+    Simulation results of point targets and distributed target validate the effectiveness of the presented imaging approach.
+
+    点目标和分布目标的仿真结果验证了这种成像方法的有效性。
+
+    jeit.ie.ac.cn
+    10
+
+    Now let's discuss Sensitivity Analysis and Monte Carlo Simulation.
+
+    现在让我们开始讨论敏感性分析和蒙特卡洛模拟。
+
+    www.ibm.com
+    11
+
+    Through determining the simulation parameters more accurately, the vibration characteristics of the motorcycle were analyzed in detail.
+
+    通过对仿真参数的精确确定，对摩托车整车振动特性进行了详细的分析。
+
+    www.ceps.com.tw
+    12
+
+    The homodyne vibrometer system of specific parameters was simulated numerically and the simulation results coincided with the theoretical analysis.
+
+    并对特定参数的零差测振系统进行了数值仿真，仿真结果与理论分析吻合。
+
+    lib.cqvip.com
+    13
+
+    The simulation of the wastewater treatment in Haicheng Wastewater Treatment Plant proves the feasibility and validity of the system.
+
+    通过对海城污水处理厂处理过程的实时模拟，验证了系统的正确性和实用性。
+
+    www.ceps.com.tw
+    14
+
+    The simulation result will supply a theoretical basis for calculation of moving loading and analysis of road safety.
+
+    仿真计算结果为路面动荷载的计算和道路安全的分析提供了理论基础。
+
+    danci.911cha.com
+    15
+
+    The simulation results show that the system can depress the overshoot and improve the response and steady state performance.
+
+    仿真结果表明该调速系统能有效地抑制超调现象，提高系统的响应速度和稳态性能。
+
+    www.dictall.com
+    16
+
+    The properties of the addition were computed and checked by random simulation, too.
+
+    并利用随机模拟的方法对叠加的性质进行了计算和检验。
+
+    oaps.lib.tsinghua.edu.cn
+    17
+
+    A numerical example using Monte Carlo simulation method is presented to verify the effectiveness of the proposed model.
+
+    采用蒙特卡洛模拟方法的算例表明了该模型的有效性。
+
+    www.dictall.com
+    18
+
+    Professional theory of thermal simulation was introduced through analysis of the development trend of enviromental test technique.
+
+    通过对环境试验技术发展趋势的分析，介绍了温度试验热仿真技术的专业理论。
+
+    www.dictall.com
+    19
+
+    The simulation results demonstrate the correctness of the algorithm.
+
+    同时仿真结果验证了上述理论的正确性。
+
+    www.magsci.org
+    20
+
+    Simulation results show the efficiency and robustness of SAMS.
+
+    仿真结果显示SAMS的有效性和健壮性。
+
+    www.ceps.com.tw
+    21
+
+    Numerical simulation and physical test show the validity of the method in power system oscillation characteristic analysis.
+
+    通过仿真和动模试验验证了算法的有效性。
+
+    danci.911cha.com
+    22
+
+    A Monte Carlo Simulation involves the use of random numbers and probability to find solutions to complex problems.
+
+    蒙特卡洛模拟涉及了使用随机数和概率来找到复杂问题的解决方案。
+
+    www.ibm.com
+    23
+
+    You need a simulation parameter to model the number of iterations.
+
+    你需要一个仿真参数来对迭代次数进行建模。
+
+    www.infoq.com
+    24
+
+    Our theoretical analysis and simulation results show that it has a good performance.
+
+    理论分析和模拟结果均表明该算法具有较好的性能。
+
+    www.ceps.com.tw
+    25
+
+    By simulation analysis in virtual platform, students may more directly understand characteristic and analysis method of parallel mechanism.
+
+    通过在虚拟平台上进行仿真分析，学生可以更直观的理解并联机构的特点及分析方法。
+
+    www.ceps.com.tw
+    26
+
+    Simulation results show that the improved ANFIS technique is available for the modeling and control of SOFC.
+
+    仿真结果显示了改进的ANFIS技术对SOFC系统的建模和控制具有一定的实用价值。
+
+    www.dwjs.com.cn
+    27
+
+    The coupling properties of EAST LHW launcher are analyzed by numerical simulation.
+
+    采用数值模拟方法研究了EAST低杂波天线的耦合特性。
+
+    www.hjby.org
+    28
+
+    The stability of rock mass is studied with FEM simulation and the unequal thrust method.
+
+    通过弹塑性的有限元模拟和不平衡推力法计算，对其稳定性进行分析研究。
+
+    d.wanfangdata.com.cn
+    29
+
+    The optical modeling and simulation of micro optical switch using in laser ignition are made by ZEMAX.
+
+    利用综合光学设计软件ZEMAX对激光点火用微光开关进行了光学建模和耦合特性的仿真分析。
+
+    www.dictall.com
+    30
+
+    The simulation results and the field test result of a real power system all show its correctness and effectiveness.
+
+    仿真算例及实例分析结果均表明所提方法的正确性和有效性。
+
+    www.pcsee.org
+
+
+
+emulation
+
+
+柯林斯词典
+
+    1
+    VERB （因为钦慕而）仿效，模仿
+    If you emulate something or someone, you imitate them because you admire them a great deal.
+
+    Sons are traditionally expected to emulate their fathers.
+
+    历来认为儿子会仿效父亲。
+    emulation
+
+    ...a role model worthy of emulation.
+
+    值得仿效的楷模
+
+英英释义
+
+noun
+
+1
+effort to equal or surpass another
+
+2
+(computer science) technique of one machine obtaining the same results as another
+
+3
+ambition to equal or excel
+
+数据来源：WordNet
+双语例句
+全部 竞赛 仿效 竞争
+
+    1
+
+    His spirit of assiduous study is worthy of emulation.
+
+    他刻苦钻研的精神，值得效法。
+
+    《汉英大词典》
+    2
+
+    The socialist emulation drive in our factory is really lively.
+
+    咱们厂的社会主义劳动竞赛搞得真热火。
+
+    《汉英大词典》
+    3
+
+    The first team led all the others in last month's emulation drive.
+
+    上个月劳动竞赛，第一组占先了。
+
+    百度翻译例句库
+
+    以下例句来源于网络，仅供参考
+    4
+
+    Computer emulation proved the effectiveness of this algorithm.
+
+    计算机仿真证明了这一算法的有效性。
+
+    lib.cqvip.com
+    5
+
+    And the emulation experiments show that this method is valid and practicable.
+
+    计算机仿真试验的结果验证了该方法的有效性和实用性。
+
+    www.dictall.com
+    6
+
+    This paper explores programming method of PLC by traffic lights control system, and result by emulation is given.
+
+    以交通信号灯控制系统为例阐述了PLC的编程方法，并通过仿真给出了结果。
+
+    www.dictall.com
+    7
+
+    The process of earthwork for pipeline is analyzed and the method of emulation is given.
+
+    分析了大修管道土方施工过程，研究了其仿真方法。
+
+    danci.911cha.com
+    8
+
+    Finally, we did the more overall emulation to experiment to the improvement method of this paper proposed.
+
+    最后，我们对论文提出的改进方法做了较为全面的模拟实验。
+
+    danci.911cha.com
+    9
+
+    The emulation for dynamic infrared images of aircrafts is studied in this paper.
+
+    本文研究了飞机目标动态红外图像仿真技术。
+
+    www.dictall.com
+    10
+
+    In full-system emulation, it emulates the whole package, including a processor and peripherals.
+
+    在完整系统模拟中，它模拟了整个包，包括一个处理器和很多外围设备。
+
+    www.ibm.com
+    11
+
+    Through comparison emulation result and actual result, this model is proved to be highly reliable.
+
+    通过仿真结果与实际结果比较，验证了该模型具有较高的可信度。
+
+    www.dictall.com
+    12
+
+    The theory of femur adaptive remodeling and the method of femur adaptive numerical emulation are presented in this paper.
+
+    阐述了股骨的自适应再造理论和自适应数值仿真方法。
+
+    www.dictall.com
+    13
+
+    This paper brings forward several engineering algorithms and does sorts of emulation experiments.
+
+    提出了几种便于工程化实现的简便算法，并进行了仿真实验。
+
+    www.dictall.com
+    14
+
+    Dynamic emulation is the only method to solve this problem.
+
+    动态仿真是解决该问题的唯一方法。
+
+    danci.911cha.com
+    15
+
+    By emulation debugging, the system design is all right and economical.
+
+    通过仿真调试，验证了系统设计合理、济、用。
+
+    www.dictall.com
+    16
+
+    Figure shows a list of operating systems and the terminal emulation software that may be used.
+
+    图显示可被使用的作业系统和终端机模拟软体的清单。
+
+    dict.kekenet.com
+    17
+
+    Chaos circuit and emulation of numerical value prove it valid.
+
+    通过对计算机数值仿真，验证了其有效性。
+
+    www.dictall.com
+    18
+
+    The result of the emulation experiments approved the feasibility of this method.
+
+    对不同类型的调制信号仿真结果证实了算法的可行性。
+
+    danci.911cha.com
+    19
+
+    Bochs is similar to QEMU in that it provides full system emulation.
+
+    Bochs与QEMU类似，因为它提供了完全的系统仿真。
+
+    www.ibm.com
+    20
+
+    Design and Realization of Network in Test Equipment Emulation System
+
+    试验设备仿真系统中系统网络的设计与实现
+
+    www.dictall.com
+    21
+
+    System-mode emulation allows emulation of a full system, including processor and assorted peripherals.
+
+    系统模式仿真允许对整个系统进行仿真，包括处理器和配套的外围设备。
+
+    www.ibm.com
+    22
+
+    The guest operating system interfaces to the KVM module using a modified QEMU process for PC hardware emulation.
+
+    客户操作系统使用为PC硬件仿真修改过的QEMU进程与KVM模块接口。
+
+    www.ibm.com
+    23
+
+    The first is the Full System Emulation mode.
+
+    第一种是Full System Emulation（完全系统仿真）模式。
+
+    www.ibm.com
+    24
+
+    The first, system emulation, sets up a complete virtual machine.
+
+    第一种，系统模拟，安装完全的虚拟机。
+
+    www.ibm.com
+    25
+
+    Development and Research of Electrical Control Virtual Emulation System
+
+    电气控制虚拟仿真系统的开发与研究
+
+    www.dictall.com
+    26
+
+    Before you can use QEMU in system emulation mode, you must install a guest operating system.
+
+    在使用QEMU系统模拟模式之前，必须安装一个客户操作系统。
+
+    www.ibm.com
+    27
+
+    QEMU supports two operating modes: user-mode emulation and system-mode emulation.
+
+    QEMU支持两种操作模式：用户模式仿真和系统模式仿真。
+
+    www.ibm.com
+    28
+
+    The emulation process is streamlined because the binaries are native to the underlying architecture of the system.
+
+    模拟过程进行了简化，因为这些二进制代码对于该系统的基础体系结构而言是本地的。
+
+    www.ibm.com
+    29
+
+    You do this by setting up a terminal emulation program.
+
+    这需要设置一个终端模拟程序。
+
+    www.ibm.com
+    30
+
+    You can use the emulation in many places in the example application.
+
+    可以在应用程序样例中的多处地方使用模拟。
+
+    www.ibm.com
+
